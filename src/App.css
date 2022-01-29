@@ -10,7 +10,7 @@ body {
   background: linear-gradient(
     90deg,
     rgba(48, 16, 255, 1) 0%,
-    rgba(100, 115, 255, 1) 100%
+    rgb(21, 167, 204) 100%
   );
 }
 .todo-app {
@@ -97,7 +97,7 @@ h1 {
   color: #fff;
   background: linear-gradient(
     90deg,
-    rgba(255, 118, 20, 1) 0%,
+    rgb(245, 32, 216) 0%,
     rgba(255, 84, 17, 1) 100%
   );
 
@@ -118,7 +118,7 @@ h1 {
   background: linear-gradient(
     90deg,
     rgba(255, 12, 241, 1) 0%,
-    rgba(250, 0, 135, 1) 100%
+    rgb(41, 128, 55) 100%
   );
 }
 
@@ -126,7 +126,7 @@ h1 {
   background: linear-gradient(
     90deg,
     rgba(20, 159, 255, 1) 0%,
-    rgba(17, 122, 255, 1) 100%
+    rgb(182, 59, 43) 100%
   );
 }
 
