@@ -1,4 +1,4 @@
- * {
+* {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -32,7 +32,6 @@ h1 {
   color: #fff;
   font-size: 24px;
 }
-/*
 .complete {
   text-decoration: line-through;
   opacity: 0.4;
@@ -129,7 +128,7 @@ h1 {
     rgba(20, 159, 255, 1) 0%,
     rgba(17, 122, 255, 1) 100%
   );
-}*/
+}
 
 .icons {
   display: flex;
@@ -145,4 +144,4 @@ h1 {
 
 .edit-icon {
   color: rgb(25, 0, 255);
-} 
+}
