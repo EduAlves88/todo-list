@@ -1,13 +1,12 @@
-*{
-
+/* * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
-    'Lucida Sans', Arial, sans-serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
 }
 
- body {
+body {
   background: linear-gradient(
     90deg,
     rgba(48, 16, 255, 1) 0%,
@@ -129,7 +128,7 @@ h1 {
     rgba(20, 159, 255, 1) 0%,
     rgba(17, 122, 255, 1) 100%
   );
-}
+}*/
 
 .icons {
   display: flex;
@@ -140,9 +139,9 @@ h1 {
 
 .delete-icon {
   margin-right: 5px;
-  color: #fff;
+  color: rgb(0, 225, 255);
 }
 
 .edit-icon {
-  color: #fff;
-}
+  color: rgb(25, 0, 255);
+} 
